@@ -10,7 +10,7 @@ Once the user is signed in, the website displays a text label with a button to a
 
 #### What to look at
 
-- We normally use Typescript.
+- We use Typescript.
 - Webpage development using React.
 - Do it as best as you could.
 - We are going to pay attention to how you save the token.
